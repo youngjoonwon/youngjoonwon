@@ -25,7 +25,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 5. “제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구 High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소.
 6. “제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구 Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4 - 2016.10. 국가보안기술연구소.
 7. “안전한 사회를 위한 의료정보융합시스템 연구 Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
-8. “Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11. Private SNS 정보공유시스템 연구, 국가보안기술연구소.
+8. “Private SNS 정보공유시스템 연구 Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11, 국가보안기술연구소.
 9. “인터넷 비정상 탐지 기법 연구 Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency, 2014.07 - 08. 한국인터넷진흥원 (KISA).
 10. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01 - 2013.03.01.
 11. (no funding) Packet over transport networks; Future traffic forecast models, Korea Telecom, 2013.
