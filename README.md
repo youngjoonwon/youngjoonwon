@@ -1,6 +1,6 @@
 **Intro 소개**
 
-한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)); youngjoon@hanyang.ac.kr; 02-2220-2388; [Linkedin](https://www.linkedin.com/in/yjwon); [블로그](https://dev.to/youngjoonwon)
+한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)) #youngjoon@hanyang.ac.kr #02-2220-2388 #[Linkedin](https://www.linkedin.com/in/yjwon) #[블로그](https://dev.to/youngjoonwon)
 
 I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](https://www.iij-ii.co.jp/en/members/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
 
