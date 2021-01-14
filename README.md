@@ -1,3 +1,5 @@
+**Intro 소개**
+
 한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)); youngjoon@hanyang.ac.kr; 02-2220-2388; [Linkedin](https://www.linkedin.com/in/yjwon)
 
 I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](https://www.iij-ii.co.jp/en/members/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
@@ -18,7 +20,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 4. (no funding) "3G/4G LTE/Wi-Fi 통신망 품질측정 빅데이터 분석연구" 2017-2018, 한국정보화진흥원 (NIA).
 5. “제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구 High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소.
 6. “제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구 Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4 - 2016.10. 국가보안기술연구소.
-7. “Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
+7. “안전한 사회를 위한 의료정보융합시스템 연구 Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
 8. “Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11. Private SNS 정보공유시스템 연구, 국가보안기술연구소.
 9. “인터넷 비정상 탐지 기법 연구 Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency, 2014.07 - 08. 한국인터넷진흥원 (KISA).
 10. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01 - 2013.03.01.
