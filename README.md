@@ -1,3 +1,5 @@
+![pic1](./pic1.jpeg = 250x)
+
 **Intro 소개**
 
 한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)) #youngjoon@hanyang.ac.kr #02-2220-2388 #[Linkedin](https://www.linkedin.com/in/yjwon) #[블로그](https://dev.to/youngjoonwon)
