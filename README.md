@@ -1,4 +1,4 @@
-![pic1](./pic1.jpeg = 250x)
+<img src="pic1.jpeg" width=30% height=30% align='left'>
 
 **Intro 소개**
 
