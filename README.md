@@ -9,7 +9,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 - 2010.2 - 2011.2: Postdoctoral Researcher, INRIA, Bordeaux, France
 - 2010.2: PhD, Computer Science & Engineering, POSTECH, Korea
 - 2005.7: Visiting Researcher, University of Waterloo (Bell Network Lab), Waterloo, ON, Canada
-- 2003.6: B. Math, Computer Science, University of Waterloo, Waterloo, ON, Canada
+- 2003.6: B. Mathematics, Computer Science, University of Waterloo, Waterloo, ON, Canada
 - 1999.6: New Westminster Secondary, New Westminster, BC, Canada
 
 **Projects 프로젝트**
