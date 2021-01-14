@@ -1,4 +1,4 @@
-한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)), youngjoon@hanyang.ac.kr, 연구실: 02-2220-2388
+한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)); youngjoon@hanyang.ac.kr; 02-2220-2388; [Linkedin](https://www.linkedin.com/in/yjwon)
 
 I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](https://www.iij-ii.co.jp/en/members/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
 
@@ -10,24 +10,27 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 - 2003.6: B. Math, Computer Science, University of Waterloo, Waterloo, ON, Canada
 - 1999.6: New Westminster Secondary, New Westminster, BC, Canada
 
+**Projects 프로젝트**
 
+1. “블록체인 거래 모니터링 시스템 연구 Blockchain transaction monitoring system”, funded by IITP, Ministry of Science and ICT, 2018.04-2020.12. 과학기술정보통신부 (연구참여).
+2. “네트워크 장비 보안 식별 및 보안기능 설정 점검 방안 연구”, funded by National Security Research Institute (NSR), 2019.4-2019.10. 국가보안기술연구소.
+3. “제어시스템 사이버 공격 대응 기술 동향 분석 연구 Cyber attack defense techniques for control networks: SCADA and etc.”, funded by NSR, 2018.4-2018.10. 국가보안기술연구소.
+4. (no funding) "3G/4G LTE/Wi-Fi 통신망 품질측정 빅데이터 분석연구" 2017-2018, 한국정보화진흥원 (NIA).
+5. “제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구 High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소.
+6. “제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구 Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4 - 2016.10. 국가보안기술연구소.
+7. “Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
+8. “Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11. Private SNS 정보공유시스템 연구, 국가보안기술연구소.
+9. “인터넷 비정상 탐지 기법 연구 Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency, 2014.07 - 08. 한국인터넷진흥원 (KISA).
+10. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01 - 2013.03.01.
+11. (no funding) Packet over transport networks; Future traffic forecast models, Korea Telecom, 2013.
+12. “Internet measurement data-sharing cloud platform to characterize traffic trends”, funded by Japan Society of Promotional Science, 2011.04.01 - 2013.03.31 (ended at 2012.03.01).
 
-**Projects**
+**자문 및 학회활동**
 
-1. “TBA”, funded by National Security Research Institute (NSR), 2019.4-2019.10. 국가보안기술연구소.
-2. “Cyber attack defense techniques for control networks: SCADA and etc.”, funded by NSR, 2018.4-2018.10. 국가보안기술연구소 - 제어시스템 사이버 공격 대응 기술 동향 분석 연구.
-3. “Blockchain transaction monitoring system”, funded by IITP, Ministry of Science and ICT, 2018.04-2019.12. 과학기술정보통신부 - 블록체인 거래 모니터링 시스템 연구 (연구참여).
-4. “High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소 - 제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구.
-5. “Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4 - 2016.10. 국가보안기술연구소 - 제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구.
-6. “Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
-7. “Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11. Private SNS 정보공유시스템 연구, 국가보안기술연구소.
-8. “Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency (KISA), 2014.07 - 08. 인터넷 비정상 탐지 기법 연구, 한국인터넷진흥원.
-9. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01 - 2013.03.01.
-10. (no funding) Packet over transport networks; Future traffic forecast models, Korea Telecom, 2013.
-11. “Internet measurement data-sharing cloud platform to characterize traffic trends”, funded by Japan Society of Promotional Science, 2011.04.01 - 2013.03.31 (ended at 2012.03.01).
+1. Reviewer (2020~) for IEEE ICBC, APNOMS and etc.
+2. 2017년 통신서비스 품질평가 보고서 자문, 한국정보화진흥원
 
-
-**Publications**            [dblp-1](http://dblp.uni-trier.de/pers/hd/w/Won:Youngjoon) [dblp-2](http://dblp.uni-trier.de/pers/hd/w/Won:Young_J=)
+**Publications 논문**            [dblp-1](http://dblp.uni-trier.de/pers/hd/w/Won:Youngjoon) [dblp-2](http://dblp.uni-trier.de/pers/hd/w/Won:Young_J=)
 
 1. J. Hyun, Youngjoon Won, Kenjiro Cho, Romain Fontugne, et al., “High-end LTE Service Evolution in Korea: 4 Years of Nationwide Mobile Network Measurements”, IEEE/IFIP CNSM, Tokyo, Japan, Nov. 2017.
 2. J. Hyun, Youngjoon Won, et al., “Measuring Auto Switch Between Wi-Fi and Mobile Data Networks in an Urban Area” (short), CNSM, Nov. 2016.
@@ -70,7 +73,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 38. S. Chung, Young J. Won, D. Agrawal, S. Hong, Kihong Park, “Detection and Analysis of Packet Loss on Underutilized Enterprise Network Links”, IEEE Int. Workshop on End-to-End Monitoring Techniques and Services, Nice, France, May 15, 2005, pp. 164-176. [site](http://dl.acm.org/citation.cfm?id=1253227)
 39. M. Kim, Young J. Won, H. Lee, James Hong, Raouf Boutaba, “Flow-based Characteristic Analysis of Internet Application Traffic”, IEEE Int. Workshop on End-to-End Monitoring Techniques and Services, San Diego, California, USA, October 3, 2004, pp. 62-67.
 
-**Patents**
+**Patents 특허**
 
 1. “Autonomic Network Management System” US Reg #: US 9019817 B2,  2015.
 2. “Autonomic Network Management System” Europe Reg #: EP2530872, 2015.
@@ -80,10 +83,6 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 6. “Method and Apparatus for Predicting Error in Process Control Network” Registration #: 10-1027242 KR, March 29, 2011.
 7. “Apparatus for Traffic Identification on Internet Protocol Network Environment” Registration #: 10-0710047 KR, April 16, 2007.
 
+**Contact**
 
-**Other info**
-
-Office: 					Seoul Campus, R&D Building, Rm. 214
-
-Address (mail): 	Hanyang University, IT/BT Building, Rm. 404
-								222 Wangsimni-ro, Seongdong-gu, Seoul, Korea, 133-791
+Office: Seoul Campus, R&D Building, Rm. 214
