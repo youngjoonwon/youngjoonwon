@@ -1,9 +1,9 @@
-한양대학교 정보시스템학과 원영준 교수 ([CV-short](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0))   youngjoon@hanyang.ac.kr   연구실: 02-2220-2388
+한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0)), youngjoon@hanyang.ac.kr, 연구실: 02-2220-2388
 
-I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](http://www.iij-ii.co.jp/en/lab/researchers/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
+I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](https://www.iij-ii.co.jp/en/members/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
 
 - 2012.3 - present: Associate Professor, Hanyang University, Seoul, Korea
-- 2011.4 - 2012.3: Researcher, Internet Initiative Japan, Tokyo, Japan. old webpage at IIJ [here](http://www.iij-ii.co.jp/en/lab/researchers/young/index.html)
+- 2011.4 - 2012.3: Researcher, Internet Initiative Japan, Tokyo, Japan.
 - 2010.2 - 2011.2: Postdoctoral Researcher, INRIA, Bordeaux, France
 - 2010.2: PhD, Computer Science & Engineering, POSTECH, Korea
 - 2005.7: Visiting Researcher, University of Waterloo (Bell Network Lab), Waterloo, ON, Canada
