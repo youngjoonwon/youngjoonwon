@@ -1,14 +1,25 @@
 원영준 (Young, [CV-short](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0))
-email: youngjoon@hanyang.ac.kr  office: +82-2-2220-2388  https://www.linkedin.com/in/yjwon
+
+youngjoon@hanyang.ac.kr
+
+office +82-2-2220-2388
+
+https://www.linkedin.com/in/yjwon
 
 I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) in the College of Engineering, Department of Information Systems. Before joining Hanyang University, I was a Researcher at [IIJ Research Lab](http://www.iij-ii.co.jp/en/lab/researchers/index.html), Tokyo, Japan (Internet Initiative Japan, Director: Kenjiro Cho). Prior to IIJ, I was a Postdoctoral Researcher at [INRIA](http://www.inria.fr/), Bordeaux, France (Advisors: Olivier Beaumont, Lionel Eyraud-Dubois). I received B.Math, Computer Science at the [University of Waterloo](http://www.uwaterloo.ca/), Canada, and PhD at [POSTECH](http://www.postech.ac.kr/), Korea (Supervisor: James Hong).
 
 2012.3 - present: Associate Professor, Hanyang University, Seoul, Korea
+
 2011.4 - 2012.3: Researcher, Internet Initiative Japan, Tokyo, Japan. old webpage at IIJ [here](http://www.iij-ii.co.jp/en/lab/researchers/young/index.html)
+
 2010.2 - 2011.2: Postdoctoral Researcher, INRIA, Bordeaux, France
+
 2010.2: PhD, Computer Science & Engineering, POSTECH, Korea
+
 2005.7: Visiting Researcher, University of Waterloo (Bell Network Lab), Waterloo, ON, Canada
+
 2003.6: B. Math, Computer Science, University of Waterloo, Waterloo, ON, Canada
+
 1999.6: New Westminster Secondary, New Westminster, BC, Canada
 
 
