@@ -19,7 +19,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 **Students (Research and Teaching Assistants) 학생들**
 
 - Haneul Lee 이하늘 (MS 석사과정, https://github.com/hnlee1234)
-- Byung-Gon Lee 이병곤 (MiraeAsset 미래에셋기금운용)
+- Byung-Gon Lee 이병곤 (MiraeAsset 미래에셋자산운용)
 - Jaeyeon Shin 신재연 (Korea Financial Telecommunications & Clearings Institute 금융결제원)
 - Eunji Kim 김은지 (Korea Financial Supervisory Service 금융감독원)
 - Sungwon Chung 정성원 (Microsoft, Seattle 마이크로소프트)
