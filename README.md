@@ -2,7 +2,7 @@
 
 **Intro 소개**
 
-한양대학교 정보시스템학과 원영준 교수 ([Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0), [Linkedin](https://www.linkedin.com/in/yjwon)) 
+한양대학교 정보시스템학과 원영준 교수 (이력서 [Young-CV](https://www.dropbox.com/s/uxqsad4xfnbjr2w/cv-young-1pg.pdf?dl=0), [Linkedin](https://www.linkedin.com/in/yjwon)) 
 
 \#이메일 youngjoon@hanyang.ac.kr \#전화 02-2220-2388 \#[블로그 Dev.to](https://dev.to/youngjoonwon)
 
