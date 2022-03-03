@@ -16,10 +16,24 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 - 2003: B. Mathematics, Computer Science, University of Waterloo, Waterloo, ON, Canada
 - 1999: New Westminster Secondary, New Westminster, BC, Canada
 
+**Students (Research and Teaching Assistants) 학생들**
+
+Haneul Lee 이하늘 (MS, https://github.com/hnlee1234)
+
+Byung-Gon Lee 이병곤 (now @ MireaAsset 미래에셋기금운용)
+Jaeyeon Shin 신재연 (now @ Korea Financial Telecommunications & Clearings Institute 금융결제원)
+Eunji Kim 김은지 (now @ Korea Financial Supervisory Service 금융감독원)
+Sungwon Chung 정성원 (now @ Microsoft, Seattle 마이크로소프트)
+Suzie Kang 강수지 (now @ Facebook, Menlo Park 페이스북, http://suzie.fyi/)
+Jooenu Ahn 안주은 (now @ Sendbird, https://github.com/JooeunAhn)
+Eunjoo Son 손은주 (now @ Sendbird)
+전현국 (now @ LINE 라인), 이하민 (now @ Korea Telecom), 김상원 (now @ Shinhan Bank 신한은행AI)
+
 **Projects 프로젝트**
 
+1. "네트워크 디스커버리 기술 동향 분석 ICS (SCADA, DCS) network asset discovery: Secure passive and active scanning", funded by National Security Research Institute (NSR), 2021.4-2021.11. 국가보안기술연구소.
 1. “블록체인 거래 모니터링 시스템 연구 Blockchain transaction monitoring system”, funded by IITP, Ministry of Science and ICT, 2018.04-2020.12. 과학기술정보통신부 (연구참여).
-2. “네트워크 장비 보안 식별 및 보안기능 설정 점검 방안 연구”, funded by National Security Research Institute (NSR), 2019.4-2019.10. 국가보안기술연구소.
+2. “네트워크 장비 보안 식별 및 보안기능 설정 점검 방안 연구 Secure network switch verification”, funded by NSR, 2019.4-2019.10. 국가보안기술연구소.
 3. “제어시스템 사이버 공격 대응 기술 동향 분석 연구 Cyber attack defense techniques for control networks: SCADA and etc.”, funded by NSR, 2018.4-2018.10. 국가보안기술연구소.
 4. (no funding) "3G/4G LTE/Wi-Fi 통신망 품질측정 빅데이터 분석연구" 2017-2018, 한국정보화진흥원 (NIA).
 5. “제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구 High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소.
@@ -36,7 +50,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 1. Reviewer (2020~) for IEEE ICBC, APNOMS and etc.
 2. 2017년 통신서비스 품질평가 보고서 자문, 한국정보화진흥원
 
-**Publications 논문**            [dblp-1](http://dblp.uni-trier.de/pers/hd/w/Won:Youngjoon) [dblp-2](http://dblp.uni-trier.de/pers/hd/w/Won:Young_J=)
+**Publications 논문** (not up-to-date)            [dblp-1](http://dblp.uni-trier.de/pers/hd/w/Won:Youngjoon) [dblp-2](http://dblp.uni-trier.de/pers/hd/w/Won:Young_J=)
 
 1. J. Hyun, Youngjoon Won, Kenjiro Cho, Romain Fontugne, et al., “High-end LTE Service Evolution in Korea: 4 Years of Nationwide Mobile Network Measurements”, IEEE/IFIP CNSM, Tokyo, Japan, Nov. 2017.
 2. J. Hyun, Youngjoon Won, et al., “Measuring Auto Switch Between Wi-Fi and Mobile Data Networks in an Urban Area” (short), CNSM, Nov. 2016.
