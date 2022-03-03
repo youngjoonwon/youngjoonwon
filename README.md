@@ -36,13 +36,13 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 3. “제어시스템 사이버 공격 대응 기술 동향 분석 연구 Cyber attack defense techniques for control networks: SCADA and etc.”, funded by NSR, 2018.4-2018.10. 국가보안기술연구소.
 4. (no funding) "3G/4G LTE/Wi-Fi 통신망 품질측정 빅데이터 분석연구" 2017-2018, 한국정보화진흥원 (NIA).
 5. “제어망 내부 트래픽 수집 기술 고도화 및 점검 기술 연구 High speed packet capture and diagnosis techniques for control network traffic, using portable single-board computers”, funded by NSR, 2017.4-2017.10. 국가보안기술연구소.
-6. “제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구 Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4 - 2016.10. 국가보안기술연구소.
-7. “안전한 사회를 위한 의료정보융합시스템 연구 Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11- 2017.04. 기초연구.
-8. “Private SNS 정보공유시스템 연구 Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08 - 2014.11, 국가보안기술연구소.
-9. “인터넷 비정상 탐지 기법 연구 Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency, 2014.07 - 08. 한국인터넷진흥원 (KISA).
-10. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01 - 2013.03.01.
+6. “제어시스템 네트워크 이상징후 비실시간 탐지 알고리듬 연구 Industrial control systems security; abnormal traffic detection algorithm in SCADA”, funded by NSR, 2016.4-2016.10. 국가보안기술연구소.
+7. “안전한 사회를 위한 의료정보융합시스템 연구 Secure eHealth information sharing convergence system for safer society”, funded by Ministry of Education, 2014.11-2017.04. 기초연구.
+8. “Private SNS 정보공유시스템 연구 Research on private SNS information sharing system: security issues”, funded by NSR, 2014.08-2014.11, 국가보안기술연구소.
+9. “인터넷 비정상 탐지 기법 연구 Research on Internet anomaly detection techniques”, funded by Korea Internet & Security Agency, 2014.07-08. 한국인터넷진흥원 (KISA).
+10. “Trending time series signals of traffic anomaly”, funded by Hanyang Univ, 2012.04.01-2013.03.01.
 11. (no funding) Packet over transport networks; Future traffic forecast models, Korea Telecom, 2013.
-12. “Internet measurement data-sharing cloud platform to characterize traffic trends”, funded by Japan Society of Promotional Science, 2011.04.01 - 2013.03.31 (ended at 2012.03.01).
+12. “Internet measurement data-sharing cloud platform to characterize traffic trends”, funded by Japan Society of Promotional Science, 2011.04.01-2013.03.31 (ended at 2012.03.01).
 
 **자문 및 학회활동**
 
