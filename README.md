@@ -19,14 +19,14 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 **Students (Research and Teaching Assistants) 학생들**
 
 - Haneul Lee 이하늘 (MS 석사과정, https://github.com/hnlee1234)
-- Byung-Gon Lee 이병곤 (now @ MireaAsset 미래에셋기금운용)
-- Jaeyeon Shin 신재연 (now @ Korea Financial Telecommunications & Clearings Institute 금융결제원)
-- Eunji Kim 김은지 (now @ Korea Financial Supervisory Service 금융감독원)
-- Sungwon Chung 정성원 (now @ Microsoft, Seattle 마이크로소프트)
-- Suzie Kang 강수지 (now @ Facebook, Menlo Park 페이스북, http://suzie.fyi/)
-- Jooenu Ahn 안주은 (now @ Sendbird, https://github.com/JooeunAhn)
-- Eunjoo Son 손은주 (now @ Sendbird)
-- 전현국 (now @ LINE 라인), 이하민 (now @ Korea Telecom), 김상원 (now @ Shinhan Bank 신한은행AI)
+- Byung-Gon Lee 이병곤 (MireaAsset 미래에셋기금운용)
+- Jaeyeon Shin 신재연 (Korea Financial Telecommunications & Clearings Institute 금융결제원)
+- Eunji Kim 김은지 (Korea Financial Supervisory Service 금융감독원)
+- Sungwon Chung 정성원 (Microsoft, Seattle 마이크로소프트)
+- Suzie Kang 강수지 (Facebook, Menlo Park 페이스북, http://suzie.fyi/)
+- Jooenu Ahn 안주은 (Sendbird, https://github.com/JooeunAhn)
+- Eunjoo Son 손은주 (Sendbird)
+- 전현국 (LINE 라인), 이하민 (Korea Telecom), 김상원 (ShinhanBank 신한은행AI)
 
 **Projects 프로젝트**
 
