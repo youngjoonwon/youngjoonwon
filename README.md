@@ -30,7 +30,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 
 **Projects 프로젝트**
 
-1. "네트워크 디스커버리 기술 동향 분석 ICS (SCADA, DCS) network asset discovery: Secure passive and active scanning", funded by National Security Research Institute (NSR), 2021.4-2021.11. 국가보안기술연구소.
+1. "네트워크 디스커버리 기술 동향 분석 ICS (PLC, DCS) network asset discovery: Secure passive and active scanning", funded by National Security Research Institute (NSR), 2021.4-2021.11. 국가보안기술연구소.
 1. “블록체인 거래 모니터링 시스템 연구 Blockchain transaction monitoring system”, funded by IITP, Ministry of Science and ICT, 2018.04-2020.12. 과학기술정보통신부 (연구참여).
 2. “네트워크 장비 보안 식별 및 보안기능 설정 점검 방안 연구 Secure network switch verification”, funded by NSR, 2019.4-2019.10. 국가보안기술연구소.
 3. “제어시스템 사이버 공격 대응 기술 동향 분석 연구 Cyber attack defense techniques for control networks: SCADA and etc.”, funded by NSR, 2018.4-2018.10. 국가보안기술연구소.
