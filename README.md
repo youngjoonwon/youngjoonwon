@@ -1,4 +1,4 @@
-<img src="pic1.jpeg" width=30% height=30% align='left'>
+<img src="pic2.jpeg" width=30% height=30% align='left'>
 
 **Intro 소개**
 
