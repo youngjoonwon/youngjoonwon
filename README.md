@@ -26,7 +26,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 - Suzie Kang 강수지 (Meta-Facebook, Menlo Park 메타-페이스북, http://suzie.fyi/)
 - Jooeun Ahn 안주은 (Sendbird, https://github.com/JooeunAhn)
 - Eunjoo Son 손은주 (Sendbird, https://github.com/EJSohn)
-- 전현국 (LINE 라인), 이하민 (Korea Telecom), 김상원 (ShinhanBank 신한은행AI)
+- 전현국 (LINE 라인), 이하민 (Korea Telecom), 김상원 (KB Bank 국민은행AI)
 
 **Projects 프로젝트**
 
