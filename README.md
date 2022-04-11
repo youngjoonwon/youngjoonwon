@@ -1,5 +1,4 @@
 <img src="pic2.jpeg" width=30% height=30% align='left'>
-https://youtu.be/amD02nul4tA
 <!--iframe width="460" height="215" src="https://www.youtube.com/embed/amD02nul4tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 **Intro 소개**
