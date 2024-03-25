@@ -1,6 +1,6 @@
-###Seminar Reading List
+**Seminar Reading List**
 
-####TC.Kim
+**TC.Kim**
 
 >S. Sundberg et al., Efficient Continuous Latency Monitoring with eBPF, Passive and Active Measurement (PAM), LNCS 13882, 2023. [https://doi.org/10.1007/978-3-031-28486-1_9](https://doi.org/10.1007/978-3-031-28486-1_9)
 
@@ -26,7 +26,7 @@
 
 >S.A. Rebuffi et al., iCaRL: Incremental Classifier and Representation Learning, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
-####H.Lee
+**H.Lee**
 
 > Flashbots MEV, https://www.flashbots.net/.
 
@@ -39,7 +39,7 @@
 >4. P. Daian et al., Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability, IEEE Symposium on Security and Privacy (SP), pp. 910-927, 2020. [https://arxiv.org/pdf/1904.05234.pdf](https://arxiv.org/pdf/1904.05234.pdf)
 
 
-####Young
+**Young**
 
 > A. Arjmand, Liquidity Management Attacks on Lending Markets, Advances in Financial Technologies (AFT), 2023. [https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf)
 
