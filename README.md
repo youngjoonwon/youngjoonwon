@@ -1,4 +1,4 @@
-<img src="pic2.jpeg" width=30% height=30% align='left'>
+<img src="pic1.jpeg" width=30% height=30% align='left'>
 <!--iframe width="460" height="215" src="https://www.youtube.com/embed/amD02nul4tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
 [**Seminar: Reading List 세미나**](https://github.com/youngjoonwon/youngjoonwon/blob/young/seminar.md)
@@ -21,7 +21,7 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 
 **Students (Research and Teaching Assistants) 학생들**
 
-- Taechul Kim 김태철 (MS 석사과정+Army Support, https://github.com/incognitokk33)
+- Taechul Kim 김태철 (MS 석사과정+ROK Army, https://github.com/incognitokk33)
 - Haneul Lee 이하늘 (MS 석사과정, https://github.com/hnlee1234)
 - Byung-Gon Lee 이병곤 (MiraeAsset 미래에셋자산운용)
 - Jaeyeon Shin 신재연 (Korea Financial Telecommunications & Clearings Institute 금융결제원)
