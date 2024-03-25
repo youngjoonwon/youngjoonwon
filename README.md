@@ -1,6 +1,8 @@
 <img src="pic2.jpeg" width=30% height=30% align='left'>
 <!--iframe width="460" height="215" src="https://www.youtube.com/embed/amD02nul4tA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->
 
+[**Seminar: Reading List 세미나**](https://github.com/youngjoonwon/youngjoonwon/blob/young/seminar.md)
+
 **Intro 소개**
 
 한양대학교 정보시스템학과 원영준 교수 ([Young-CV-이력서](https://young.hanyang.ac.kr/cv-young-1pg.pdf), [Linkedin](https://www.linkedin.com/in/yjwon)) 
