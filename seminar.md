@@ -57,4 +57,4 @@
 
 >Z. Fan, __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033.pdf](https://arxiv.org/pdf/2106.12033.pdf)
 
->M. Aquilina, __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020.[https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology](FCA),[https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
+>M. Aquilina, __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020. [https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology](FCA),[https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
