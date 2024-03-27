@@ -2,7 +2,7 @@
 
 **TC.Kim**
 
->I. Guarino, __Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification__, Traffic Measurements and Analysis (TMA), 2023. [https://arxiv.org/abs/2305.12432](https://arxiv.org/abs/2305.12432)
+>I. Guarino et al., __Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification__, Traffic Measurements and Analysis (TMA), 2023. [https://arxiv.org/abs/2305.12432](https://arxiv.org/abs/2305.12432)
 
 >S. Sundberg et al., __Efficient Continuous Latency Monitoring with eBPF__, Passive and Active Measurement (PAM), LNCS 13882, 2023. [https://doi.org/10.1007/978-3-031-28486-1_9](https://doi.org/10.1007/978-3-031-28486-1_9)
 
