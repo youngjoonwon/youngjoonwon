@@ -43,9 +43,11 @@
 
 **Young**
 
-> A. Arjmand, __Liquidity Management Attacks on Lending Markets__, Advances in Financial Technologies (AFT), 2023. [https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf)
+>A. Derrow-Pinion et al., __ETA Prediction with Graph Neural Networks in Google Maps__, CKIM, 2021. [https://arxiv.org/abs/2108.11482](https://arxiv.org/abs/2108.11482)
 
-> R. Camino, __Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain__, USENIX Security, pp. 1343-1359, 2021. [https://www.usenix.org/conference/usenixsecurity21/presentation/torres](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
+>A. Arjmand, __Liquidity Management Attacks on Lending Markets__, Advances in Financial Technologies (AFT), 2023. [https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf)
+
+>R. Camino, __Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain__, USENIX Security, pp. 1343-1359, 2021. [https://www.usenix.org/conference/usenixsecurity21/presentation/torres](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
 
 >L. Zheng et al., __Dense Representation Learning and Retrieval for Tabular Data Prediction__, ACM SIGKDD, 2023. [https://dl.acm.org/doi/abs/10.1145/3580305.3599305](https://dl.acm.org/doi/abs/10.1145/3580305.3599305)
 
@@ -54,3 +56,5 @@
 >D. Kawai, __User Participation in Cryptocurrency Derivative Markets__, AFT, 2023. [https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf](https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf)
 
 >Z. Fan, __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033.pdf](https://arxiv.org/pdf/2106.12033.pdf)
+
+>M. Aquilina, __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020.[https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology](FCA),[https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
