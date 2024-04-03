@@ -2,7 +2,7 @@
 
 **TC.Kim**
 
->Z. Gu et al., __Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs__, ISQED, 2024.[https://arxiv.org/abs/2402.18986](https://arxiv.org/abs/2402.18986)
+>Z. Gu et al., __Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs__, ISQED, 2024. [https://arxiv.org/abs/2402.18986](https://arxiv.org/abs/2402.18986)
 
 >I. Guarino et al., __Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification__, Traffic Measurements and Analysis (TMA), 2023. [https://arxiv.org/abs/2305.12432](https://arxiv.org/abs/2305.12432)
 
