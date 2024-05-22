@@ -2,6 +2,10 @@
 
 **TC.Kim**
 
+>F. Streitbelt et al., __Back-to-the-Future Whois: An IP Address Atribution Service for Working with Historic Datasets__, PAM, 2023. [https://doi.org/10.1007/978-3-031-28486-1_10](https://doi.org/10.1007/978-3-031-28486-1_10)
+
+>S. Tuli et al., __TranAD: Deep Transformer Networks for Anomaly Detection in Multivariate Time Series Data__, VLDB, 2022. [https://arxiv.org/abs/2201.07284](https://arxiv.org/abs/2201.07284)
+
 >Z. Gu et al., __Always be Pre-Training: Representation Learning for Network Intrusion Detection with GNNs__, ISQED, 2024. [https://arxiv.org/abs/2402.18986](https://arxiv.org/abs/2402.18986)
 
 >I. Guarino et al., __Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification__, Traffic Measurements and Analysis (TMA), 2023. [https://arxiv.org/abs/2305.12432](https://arxiv.org/abs/2305.12432)
