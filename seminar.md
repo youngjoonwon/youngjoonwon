@@ -40,6 +40,8 @@
 
 **H.Lee**
 
+>J. Chen, __Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild__, IEEE EuroS&P, 2023. [https://doi.org/10.1109/EuroSP57164.2023.00028](https://doi.org/10.1109/EuroSP57164.2023.00028)
+
 >__Flashbots MEV__, https://www.flashbots.net/.
 
 >M. Nadini et al., __Mapping the NFT revolution: market trends, trade networks, and visual features__, Scientific Reports 11, 20902, 2021. [https://doi.org/10.1038/s41598-021-00053-8](https://doi.org/10.1038/s41598-021-00053-8)
