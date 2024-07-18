@@ -2,6 +2,12 @@
 
 **TC.Kim**
 
+>D. Gosain et al., __Out in the Open: On the Implementation of Mobile App Filtering in India__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-58.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-58.pdf)
+
+>Y. Tian et al., __Dom-BERT: Detecting Malicious Domains with Pre-training Model__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-16.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-16.pdf)
+
+>L. Zhao et al., __Exploring the Discovery Process of Fresh IPv6 Prefixes: An Analysis of Scanning Behavior in Darknet and Honeynet__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-15.pdf)
+
 >A. Hsu et al., __A First Look at NAT64 Deployment In-The-Wild__, PAM, 2024. [https://arxiv.org/abs/2311.04181](https://arxiv.org/abs/2311.04181)
 
 >V. Safronov et al., __SunBlock: Cloudness Protection for IoT Systems__, PAM, 2024. [https://arxiv.org/abs/2401.14332](https://arxiv.org/abs/2401.14332)
