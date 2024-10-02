@@ -2,6 +2,8 @@
 
 **TC.Kim**
 
+>ASM Rizvi et al., __Anycast Polarization in The Wild__, PAM, 2024. [https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf](https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf)
+
 >N. Ortiz et al., __From Power to Water: Dissecting SCADA Networks Across Different Critical Infrastructures__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-73.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-73.pdf)
 
 >D. Zeynali et al., __Promises and Potential of BBRv3__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-59.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-59.pdf)
