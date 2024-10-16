@@ -52,22 +52,9 @@
 
 >S.A. Rebuffi et al., __iCaRL: Incremental Classifier and Representation Learning__, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
-**H.Lee**
-
->J. Chen, __Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild__, IEEE EuroS&P, 2023. [https://doi.org/10.1109/EuroSP57164.2023.00028](https://doi.org/10.1109/EuroSP57164.2023.00028)
-
->__Flashbots MEV__, https://www.flashbots.net/.
-
->M. Nadini et al., __Mapping the NFT revolution: market trends, trade networks, and visual features__, Scientific Reports 11, 20902, 2021. [https://doi.org/10.1038/s41598-021-00053-8](https://doi.org/10.1038/s41598-021-00053-8)
-
->M. Dowling et al., __Is non-fungible token pricing driven by cryptocurrencies?__, Finance Research Letters, Vol. 44, 102097, ISSN 1544-6123, 2022. [](https://doi.org/10.1016/j.frl.2021.102097)
-
->R. Budinsky et al., __Fee-Redistribution Smart Contracts for Transaction-Fee-Based Regime of Blockchains with the Longest Chain Rule__, 2023. [https://arxiv.org/abs/2302.04910](https://arxiv.org/abs/2302.04910)
-
->P. Daian et al., __Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value__, and Consensus Instability, IEEE Symposium on Security and Privacy (SP), pp. 910-927, 2020. [https://arxiv.org/pdf/1904.05234.pdf](https://arxiv.org/pdf/1904.05234.pdf)
-
-
 **Young**
+
+>O. Michel et al., __Enabling Passive Measurement of Zoom Performance in Production Networks__, IMC, 2022. [https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf](https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf)
 
 >L. Gudgeon et al., __DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency__, AFT, 2020. [https://arxiv.org/abs/2006.13922](https://arxiv.org/abs/2006.13922)
 
@@ -86,3 +73,21 @@
 >Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033.pdf](https://arxiv.org/pdf/2106.12033.pdf)
 
 >M. Aquilina et al., __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020. [FCA](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), [https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
+
+
+**H.Lee**
+
+>J. Chen, __Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild__, IEEE EuroS&P, 2023. [https://doi.org/10.1109/EuroSP57164.2023.00028](https://doi.org/10.1109/EuroSP57164.2023.00028)
+
+>__Flashbots MEV__, https://www.flashbots.net/.
+
+>M. Nadini et al., __Mapping the NFT revolution: market trends, trade networks, and visual features__, Scientific Reports 11, 20902, 2021. [https://doi.org/10.1038/s41598-021-00053-8](https://doi.org/10.1038/s41598-021-00053-8)
+
+>M. Dowling et al., __Is non-fungible token pricing driven by cryptocurrencies?__, Finance Research Letters, Vol. 44, 102097, ISSN 1544-6123, 2022. [](https://doi.org/10.1016/j.frl.2021.102097)
+
+>R. Budinsky et al., __Fee-Redistribution Smart Contracts for Transaction-Fee-Based Regime of Blockchains with the Longest Chain Rule__, 2023. [https://arxiv.org/abs/2302.04910](https://arxiv.org/abs/2302.04910)
+
+>P. Daian et al., __Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value__, and Consensus Instability, IEEE Symposium on Security and Privacy (SP), pp. 910-927, 2020. [https://arxiv.org/pdf/1904.05234.pdf](https://arxiv.org/pdf/1904.05234.pdf)
+
+
+
