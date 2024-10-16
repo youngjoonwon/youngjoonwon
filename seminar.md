@@ -2,6 +2,8 @@
 
 **TC.Kim**
 
+>P. Kannan et al., __Designing a Lightweight Network Observability agent for Cloud Applications__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-75.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-75.pdf)
+
 >ASM Rizvi et al., __Anycast Polarization in The Wild__, PAM, 2024. [https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf](https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf)
 
 >N. Ortiz et al., __From Power to Water: Dissecting SCADA Networks Across Different Critical Infrastructures__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-73.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-73.pdf)
