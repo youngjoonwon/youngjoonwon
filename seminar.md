@@ -56,7 +56,7 @@
 
 >Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033v5](https://arxiv.org/pdf/2106.12033v5)
 
->Alan Guo., __Invariance properties of maximal extractable value__, Jump Crpto, 2023. [https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/](https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/)
+>Alan Guo., __Invariance properties of maximal extractable value__, Jump Crypto, 2023. [https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/](https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/)
 
 >O. Michel et al., __Enabling Passive Measurement of Zoom Performance in Production Networks__, IMC, 2022. [https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf](https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf)
 
