@@ -2,6 +2,10 @@
 
 **TC.Kim**
 
+>A. Krentsel et al., __A Decentralized SDN Architecture for the WAN__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672257](https://dl.acm.org/doi/10.1145/3651890.3672257)
+
+>Y. Liu et al., __KV Cache Compression and Streaming for Fast Large Language Model Serving__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672274](https://dl.acm.org/doi/10.1145/3651890.3672274)
+
 >P. Kannan et al., __Designing a Lightweight Network Observability agent for Cloud Applications__, PAM, 2024. [https://pam2024.cs.northwestern.edu/pdfs/paper-75.pdf](https://pam2024.cs.northwestern.edu/pdfs/paper-75.pdf)
 
 >ASM Rizvi et al., __Anycast Polarization in The Wild__, PAM, 2024. [https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf](https://ant.isi.edu/~johnh/PAPERS/Rizvi24a.pdf)
