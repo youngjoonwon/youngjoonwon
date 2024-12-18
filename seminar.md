@@ -2,6 +2,8 @@
 
 **TC.Kim**
 
+>T. Benson et al., __NetEdit: An Orchestration Platform for eBPF Network Functions at Scale__, SIGCOMM, 2024. [https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf)
+
 >A. Krentsel et al., __A Decentralized SDN Architecture for the WAN__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672257](https://dl.acm.org/doi/10.1145/3651890.3672257)
 
 >Y. Liu et al., __KV Cache Compression and Streaming for Fast Large Language Model Serving__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672274](https://dl.acm.org/doi/10.1145/3651890.3672274)
@@ -57,6 +59,8 @@
 >S.A. Rebuffi et al., __iCaRL: Incremental Classifier and Representation Learning__, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
 **Young**
+
+>C. Li et al., __m3: Accurate Flow-Level Performance Estimation using Machine Learning__, SIGCOMM, 2024. [https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/](https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/)
 
 >Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033v5](https://arxiv.org/pdf/2106.12033v5)
 
