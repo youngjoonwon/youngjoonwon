@@ -1,5 +1,40 @@
 **Seminar Reading List**
 
+**Youngjoon Won**
+
+>V. Nadkarni et al., __Adaptive Curves for Optimally Efficient Market Making__, AFT, 2024. [https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25]()
+
+>M. Ferriol-Galmes et al., __RouteNet-Fermi: Network Modeling with Graph Neural Networks__, IEEE/ACM ToN, 2023. [https://arxiv.org/abs/2212.12070](https://arxiv.org/abs/2212.12070)
+
+>Q. Zhang et al., __MimicNet: Fast Performance Estimates for Data Center Networks with Machine Learning__,SIGCOMM, 2021. [https://fardatalab.org/sigcomm21-zhang.pdf](https://fardatalab.org/sigcomm21-zhang.pdf)
+
+>C. Li et al., __m3: Accurate Flow-Level Performance Estimation using Machine Learning__, SIGCOMM, 2024. [https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/](https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/)
+
+>Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033v5](https://arxiv.org/pdf/2106.12033v5)
+
+>Alan Guo., __Invariance properties of maximal extractable value__, Jump Crypto, 2023. [https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/](https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/)
+
+>O. Michel et al., __Enabling Passive Measurement of Zoom Performance in Production Networks__, IMC, 2022. [https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf](https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf)
+
+>L. Gudgeon et al., __DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency__, AFT, 2020. [https://arxiv.org/abs/2006.13922](https://arxiv.org/abs/2006.13922)
+
+>A. Derrow-Pinion et al., __ETA Prediction with Graph Neural Networks in Google Maps__, CKIM, 2021. [https://arxiv.org/abs/2108.11482](https://arxiv.org/abs/2108.11482)
+
+>A. Arjmand et al., __Liquidity Management Attacks on Lending Markets__, Advances in Financial Technologies (AFT), 2023. [https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf)
+
+>R. Camino et al., __Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain__, USENIX Security, pp. 1343-1359, 2021. [https://www.usenix.org/conference/usenixsecurity21/presentation/torres](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
+
+>L. Zheng et al., __Dense Representation Learning and Retrieval for Tabular Data Prediction__, ACM SIGKDD, 2023. [https://dl.acm.org/doi/abs/10.1145/3580305.3599305](https://dl.acm.org/doi/abs/10.1145/3580305.3599305)
+
+>J. Xu et al., __The Anatomy of a Cryptocurrency Pump-and-Dump Scheme__, USENIX Security, pp. 1609-1625, 2019. [https://www.usenix.org/system/files/sec19-xu-jiahua_0.pdf](https://www.usenix.org/system/files/sec19-xu-jiahua_0.pdf)
+
+>D. Kawai et al., __User Participation in Cryptocurrency Derivative Markets__, AFT, 2023. [https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf](https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf)
+
+>Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033.pdf](https://arxiv.org/pdf/2106.12033.pdf)
+
+>M. Aquilina et al., __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020. [FCA](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), [https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
+
+
 **TC.Kim**
 
 >T. Benson et al., __NetEdit: An Orchestration Platform for eBPF Network Functions at Scale__, SIGCOMM, 2024. [https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf)
@@ -58,36 +93,8 @@
 
 >S.A. Rebuffi et al., __iCaRL: Incremental Classifier and Representation Learning__, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
-**Young**
 
->C. Li et al., __m3: Accurate Flow-Level Performance Estimation using Machine Learning__, SIGCOMM, 2024. [https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/](https://www.microsoft.com/en-us/research/publication/m3-accurate-flow-level-performance-estimation-using-machine-learning/)
-
->Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033v5](https://arxiv.org/pdf/2106.12033v5)
-
->Alan Guo., __Invariance properties of maximal extractable value__, Jump Crypto, 2023. [https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/](https://jumpcrypto.com/research/invariance-properties-of-maximal-extractable-value/)
-
->O. Michel et al., __Enabling Passive Measurement of Zoom Performance in Production Networks__, IMC, 2022. [https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf](https://www.cs.princeton.edu/~ravian/publications/zoom_imc22.pdf)
-
->L. Gudgeon et al., __DeFi Protocols for Loanable Funds: Interest Rates, Liquidity and Market Efficiency__, AFT, 2020. [https://arxiv.org/abs/2006.13922](https://arxiv.org/abs/2006.13922)
-
->A. Derrow-Pinion et al., __ETA Prediction with Graph Neural Networks in Google Maps__, CKIM, 2021. [https://arxiv.org/abs/2108.11482](https://arxiv.org/abs/2108.11482)
-
->A. Arjmand et al., __Liquidity Management Attacks on Lending Markets__, Advances in Financial Technologies (AFT), 2023. [https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf](https://sites.ualberta.ca/~mkhabbaz/assets/pdf/Liquidity.pdf)
-
->R. Camino et al., __Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain__, USENIX Security, pp. 1343-1359, 2021. [https://www.usenix.org/conference/usenixsecurity21/presentation/torres](https://www.usenix.org/conference/usenixsecurity21/presentation/torres)
-
->L. Zheng et al., __Dense Representation Learning and Retrieval for Tabular Data Prediction__, ACM SIGKDD, 2023. [https://dl.acm.org/doi/abs/10.1145/3580305.3599305](https://dl.acm.org/doi/abs/10.1145/3580305.3599305)
-
->J. Xu et al., __The Anatomy of a Cryptocurrency Pump-and-Dump Scheme__, USENIX Security, pp. 1609-1625, 2019. [https://www.usenix.org/system/files/sec19-xu-jiahua_0.pdf](https://www.usenix.org/system/files/sec19-xu-jiahua_0.pdf)
-
->D. Kawai et al., __User Participation in Cryptocurrency Derivative Markets__, AFT, 2023. [https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf](https://www.andrew.cmu.edu/user/nicolasc/publications/Kawai-AFT23.pdf)
-
->Z. Fan et al., __Strategic Liquidity Provision in Uniswap v3__, AFT, 2023. [https://arxiv.org/pdf/2106.12033.pdf](https://arxiv.org/pdf/2106.12033.pdf)
-
->M. Aquilina et al., __Quantifying the High-Frequency Trading "Arms Race": A Simple New Methodology and Estimates__, Occasional Paper, Financial Conduct Authority, 2020. [FCA](https://www.fca.org.uk/publications/occasional-papers/occasional-paper-no-50-quantifying-high-frequency-trading-arms-race-new-methodology), [https://doi.org/10.1093/qje/qjab032](https://doi.org/10.1093/qje/qjab032)
-
-
-**H.Lee**
+**H.Lee** (ended at 2022)
 
 >J. Chen, __Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild__, IEEE EuroS&P, 2023. [https://doi.org/10.1109/EuroSP57164.2023.00028](https://doi.org/10.1109/EuroSP57164.2023.00028)
 
@@ -100,6 +107,4 @@
 >R. Budinsky et al., __Fee-Redistribution Smart Contracts for Transaction-Fee-Based Regime of Blockchains with the Longest Chain Rule__, 2023. [https://arxiv.org/abs/2302.04910](https://arxiv.org/abs/2302.04910)
 
 >P. Daian et al., __Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value__, and Consensus Instability, IEEE Symposium on Security and Privacy (SP), pp. 910-927, 2020. [https://arxiv.org/pdf/1904.05234.pdf](https://arxiv.org/pdf/1904.05234.pdf)
-
-
 
