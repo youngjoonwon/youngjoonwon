@@ -94,7 +94,7 @@
 >S.A. Rebuffi et al., __iCaRL: Incremental Classifier and Representation Learning__, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. [https://arxiv.org/abs/1611.07725](https://arxiv.org/abs/1611.07725)
 
 
-**H.Lee** (ended at 2022)
+**H.Lee** (ended at 2023)
 
 >J. Chen, __Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild__, IEEE EuroS&P, 2023. [https://doi.org/10.1109/EuroSP57164.2023.00028](https://doi.org/10.1109/EuroSP57164.2023.00028)
 
