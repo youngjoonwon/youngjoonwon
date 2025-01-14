@@ -2,6 +2,8 @@
 
 **Youngjoon Won**
 
+>V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
+
 >V. Nadkarni et al., __Adaptive Curves for Optimally Efficient Market Making__, AFT, 2024. [https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25)
 
 >M. Ferriol-Galmes et al., __RouteNet-Fermi: Network Modeling with Graph Neural Networks__, IEEE/ACM ToN, 2023. [https://arxiv.org/abs/2212.12070](https://arxiv.org/abs/2212.12070)
