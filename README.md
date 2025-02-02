@@ -22,7 +22,6 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 **Students (Research and Teaching Assistants) 학생들**
 
 - Taechul Kim 김태철 (MS 석사과정+ROK Army, https://github.com/incognitokk33)
-- Haneul Lee 이하늘 (MS 석사과정, https://github.com/hnlee1234)
 - Byung-Gon Lee 이병곤 (MiraeAsset 미래에셋자산운용)
 - Jaeyeon Shin 신재연 (Korea Financial Telecommunications & Clearings Institute 금융결제원)
 - Eunji Kim 김은지 (Korea Financial Supervisory Service 금융감독원)
