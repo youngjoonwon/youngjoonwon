@@ -1,8 +1,8 @@
 
 
-#### Reading for Fun
+### Reading for Fun
 
-| About                    | Resource                                                     |
+| About                    | Resources                                                    |
 | :----------------------- | :----------------------------------------------------------- |
 | Meta AI infra            | https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/ |
 | Meta’s AI infra, cluster | https://ai.meta.com/blog/ai-rsc/                             |
