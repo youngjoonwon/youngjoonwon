@@ -39,6 +39,8 @@
 
 **TC.Kim**
 
+>L. Zeno et al., __In-Network Address Caching for Virtual Networks__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672213](https://dl.acm.org/doi/10.1145/3651890.3672213)
+
 >T. Benson et al., __NetEdit: An Orchestration Platform for eBPF Network Functions at Scale__, SIGCOMM, 2024. [https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf](https://cs.stanford.edu/~keithw/sigcomm2024/sigcomm24-final159-acmpaginated.pdf)
 
 >A. Krentsel et al., __A Decentralized SDN Architecture for the WAN__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672257](https://dl.acm.org/doi/10.1145/3651890.3672257)
