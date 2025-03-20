@@ -2,11 +2,10 @@
 
 ### Reading for Fun
 
-| About                    | Resources                                                    |
-| :----------------------- | :----------------------------------------------------------- |
-| Meta AI infra            | [GenAI infra](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/) |
-| Meta’s AI infra, cluster | https://ai.meta.com/blog/ai-rsc/                             |
-| Multiple GPUs            | [nvidia run:ai](https://www.nvidia.com/en-us/software/run-ai/)|
-| aws ec2 instance (p4d)   | [p4d blog](https://aws.amazon.com/blogs/compute/amazon-ec2-p4d-instances-deep-dive/) <br/> [p4d page](https://pages.awscloud.com/amazon-ec2-p4d.html) |
-| aws hands-on exercise    | [aws ml beginning](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=category%23machine-learning) |
+> __Meta AI infra__, [GenAI infra](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/) 
+> __Meta’s AI infra__, https://ai.meta.com/blog/ai-rsc/ 
+> __Multiple GPUs__, [nvidia run:ai](https://www.nvidia.com/en-us/software/run-ai/)
+> __AWS ec2 instance (p4d)__, [p4d blog](https://aws.amazon.com/blogs/compute/amazon-ec2-p4d-instances-deep-dive/)
+> [p4d page](https://pages.awscloud.com/amazon-ec2-p4d.html) 
+> __AWS hands-on exercise__, [aws ml beginning](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=category%23machine-learning)
 
