@@ -1,6 +1,6 @@
 
 
-### Resources
+### Resources for Info Sec
 
 
 > [CERT Division](https://www.sei.cmu.edu/about/divisions/cert/)
