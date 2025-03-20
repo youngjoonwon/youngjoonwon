@@ -1,6 +1,6 @@
 
 
-### Resources (Security)
+### Reading for Fun 
 
 > __Meta AI infra__, [GenAI infra](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 
