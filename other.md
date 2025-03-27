@@ -11,5 +11,6 @@
 
 > [OWASP Top Ten](https://owasp.org/www-project-top-ten/) 
 
-> [Indicators Of Compromise](IoCs)(https://www.fortinet.com/resources/cyberglossary/indicators-of-compromise)
+> [Indicators Of Compromise IoCs](https://www.fortinet.com/resources/cyberglossary/indicators-of-compromise)
 
+> [Nvidia Ethernet](https://docs.nvidia.com/networking/display/mlnxofedv23070512/ethernet+network)
