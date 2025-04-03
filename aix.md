@@ -15,3 +15,7 @@
 > __GNN intro__, [tech blog](https://distill.pub/2021/gnn-intro/)
 
 > __Nvidia infra__, [mlnx documentation](https://docs.nvidia.com/networking/display/mlnxofedv23070512/features+overview+and+configuration)
+
+> __Google Axion__, [Axion](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
+
+> __Attention is All You Need__, [Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
