@@ -12,6 +12,8 @@
 
 > __AWS hands-on exercise__, [aws ml beginning](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=category%23machine-learning)
 
+> __Deeplearning.AI__, [short courses](https://www.deeplearning.ai/courses/?courses_date_desc%5Bpage%5D=2)
+
 > __GNN intro__, [tech blog](https://distill.pub/2021/gnn-intro/) [Graph Mining](https://blog.tensorflow.org/2024/02/graph-neural-networks-in-tensorflow.html)
 
 > __Nvidia infra__, [mlnx documentation](https://docs.nvidia.com/networking/display/mlnxofedv23070512/features+overview+and+configuration)
@@ -19,3 +21,4 @@
 > __Google Axion__, [Axion](https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu)
 
 > __Attention is All You Need__, [Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
+
