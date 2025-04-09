@@ -39,6 +39,8 @@
 
 **TC.Kim**
 
+>Y. Wang et al., __ConfMask: Enabling Privacy-Preserving Configuration Sharing via Anonymization__, SIGCOMM, 2024. [https://grace-liu.github.io/static/papers/24-SIGCOMM-confmask.pdf](https://grace-liu.github.io/static/papers/24-SIGCOMM-confmask.pdf)
+
 >M. Vuppalapati et al., __Understanding the Host Network__, SIGCOMM, 2024. [https://www.cs.cornell.edu/~ragarwal/pubs/understanding-the-host-network.pdf](https://www.cs.cornell.edu/~ragarwal/pubs/understanding-the-host-network.pdf)
 
 >L. Zeno et al., __In-Network Address Caching for Virtual Networks__, SIGCOMM, 2024. [https://dl.acm.org/doi/10.1145/3651890.3672213](https://dl.acm.org/doi/10.1145/3651890.3672213)
