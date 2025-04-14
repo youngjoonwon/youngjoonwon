@@ -15,4 +15,4 @@
 
 > [Nvidia Ethernet](https://docs.nvidia.com/networking/display/mlnxofedv23070512/ethernet+network)
 
-> [CVE List](https://www.cve.org/) [CVE Repo](https://github.com/CVEProject/cvelistV5) [What is a CVE? Red Hat](https://www.redhat.com/en/topics/security/what-is-cve)
+> [CVE List](https://www.cve.org/)&nbsp;[CVE Repo](https://github.com/CVEProject/cvelistV5)&nbsp;[What is a CVE? Red Hat](https://www.redhat.com/en/topics/security/what-is-cve)
