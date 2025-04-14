@@ -22,5 +22,5 @@
 
 > __Attention is All You Need__, [Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-> __Pretrained Models(AWS)__,[ML Algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
+> __Pretrained Models (AWS)__, [ML Algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 
