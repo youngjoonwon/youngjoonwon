@@ -18,3 +18,5 @@
 > [CVE List](https://www.cve.org/)&nbsp;&nbsp;&nbsp;[CVE Repo](https://github.com/CVEProject/cvelistV5)&nbsp;&nbsp;&nbsp;[What is a CVE? Red Hat](https://www.redhat.com/en/topics/security/what-is-cve)
 
 > [modsecurity WAF](https://modsecurity.org/)
+
+> [BPFDoor](https://attack.mitre.org/software/S1161/) [trendmicro](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html) [other](https://sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/)
