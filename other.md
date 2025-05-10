@@ -17,8 +17,8 @@
 
 > [CVE List](https://www.cve.org/)&nbsp;&nbsp;&nbsp;[CVE Repo](https://github.com/CVEProject/cvelistV5)&nbsp;&nbsp;&nbsp;[What is a CVE? Red Hat](https://www.redhat.com/en/topics/security/what-is-cve)
 
-> [modsecurity WAF](https://modsecurity.org/)
+> [Modsecurity WAF](https://modsecurity.org/)
 
-> [MITRE BPFDoor](https://attack.mitre.org/software/S1161/) &nbsp;&nbsp;&nbsp;[trendmicro](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html) &nbsp;&nbsp;&nbsp;[sandfly](https://sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/)
+> [BPFDoor MITRE](https://attack.mitre.org/software/S1161/)&nbsp;&nbsp;&nbsp;[Trendmicro](https://www.trendmicro.com/en_us/research/25/d/bpfdoor-hidden-controller.html)&nbsp;&nbsp;&nbsp;[Sandfly Security](https://sandflysecurity.com/blog/bpfdoor-an-evasive-linux-backdoor-technical-analysis/)
 
-> [APT](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/advanced-persistent-threat-apt/)
+> [APT Crowdstrike](https://www.crowdstrike.com/en-us/cybersecurity-101/threat-intelligence/advanced-persistent-threat-apt/)
