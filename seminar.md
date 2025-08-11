@@ -3,6 +3,7 @@
 **Youngjoon Won**
 
 >V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
+>> M. Avellaneda et al., __High-frequency trading in a limit order book__,. []()
 
 >V. Nadkarni et al., __Adaptive Curves for Optimally Efficient Market Making__, AFT, 2024. [https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25)
 
