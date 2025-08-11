@@ -3,7 +3,9 @@
 **Youngjoon Won**
 
 >V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
->> M. Avellaneda et al., __High-frequency trading in a limit order book__,. []()
+>> M. Avellaneda et al., __High-frequency trading in a limit order book__, Quantitative Finance, Vol. 8, No. 3, 217-224, 2008. [https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf](https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf)
+
+>> L. Glosten et al., __Bid, ask and transaction prices in a specialist market with heterogeneously informed traders__, Journal of Financial Economics, 14(1):71–100, 1985.[https://web.stanford.edu/~milgrom/publishedarticles/Bid%20Ask%20and%20Transaction%20Prices.pdf](pdf)
 
 >V. Nadkarni et al., __Adaptive Curves for Optimally Efficient Market Making__, AFT, 2024. [https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.25)
 
