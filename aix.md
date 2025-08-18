@@ -25,3 +25,5 @@
 > __Pretrained Models (AWS)__, [ML Algorithms](https://docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
 
 > __Devocean (SK)__, [tech blog](https://devocean.sk.com/)
+
+> __Muti GPU parallelism__, [Hugging Face Doc](https://huggingface.co/docs/transformers/en/perf_train_gpu_many)
