@@ -3,7 +3,7 @@
 **Youngjoon Won**
 
 >V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
->> Chainlink, State Pricing for DEX, [https://blog.chain.link/state-pricing/](https://blog.chain.link/state-pricing/), last accesed, Aug. 2025.
+>> Chainlink, State Pricing for DEX, [https://blog.chain.link/state-pricing/](https://blog.chain.link/state-pricing/), last accesed Aug. 2025.
 
 >> M. Avellaneda et al., __High-frequency trading in a limit order book__, Quantitative Finance, Vol. 8, No. 3, 217-224, 2008. [https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf](https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf)
 
