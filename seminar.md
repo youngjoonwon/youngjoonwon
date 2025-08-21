@@ -4,6 +4,7 @@
 
 >V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
 >> Chainlink, State Pricing for DEX, [https://blog.chain.link/state-pricing/](https://blog.chain.link/state-pricing/), last accesed, Aug. 2025.
+
 >> M. Avellaneda et al., __High-frequency trading in a limit order book__, Quantitative Finance, Vol. 8, No. 3, 217-224, 2008. [https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf](https://people.orie.cornell.edu/sfs33/LimitOrderBook.pdf)
 
 >> L. Glosten et al., __Bid, ask and transaction prices in a specialist market with heterogeneously informed traders__, Journal of Financial Economics, 14(1):71–100, 1985. [pdf](https://web.stanford.edu/~milgrom/publishedarticles/Bid%20Ask%20and%20Transaction%20Prices.pdf)
