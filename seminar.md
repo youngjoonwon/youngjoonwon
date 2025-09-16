@@ -2,6 +2,8 @@
 
 **Youngjoon Won**
 
+>A. Das et al., __A Decoder-Only Foundation Model for Time-series Forecasting__, ICML, 2024. [https://arxiv.org/abs/2310.10688](https://arxiv.org/abs/2310.10688)
+
 >V. Nadkarni et al., __ZeroSwap: Data-driven Optimal Market Making in DeFi__, Financial Cryptography (FC), 2024. preprinted arXiv:2310.09413 [https://arxiv.org/abs/2310.09413](https://arxiv.org/abs/2310.09413)
 >> Chainlink, State Pricing for DEX, [https://blog.chain.link/state-pricing/](https://blog.chain.link/state-pricing/), last accesed Aug. 2025.
 
