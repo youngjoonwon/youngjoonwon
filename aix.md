@@ -27,3 +27,5 @@
 > __Devocean (SK)__, [tech blog](https://devocean.sk.com/)
 
 > __Muti GPU parallelism__, [Hugging Face Doc](https://huggingface.co/docs/transformers/en/perf_train_gpu_many)
+
+> __Timeseries Forecasting__, [Hugging Face Models](https://huggingface.co/models?pipeline_tag=time-series-forecasting)
