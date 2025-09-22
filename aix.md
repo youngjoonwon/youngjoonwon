@@ -6,7 +6,11 @@
 
 > __Meta’s AI infra__, https://ai.meta.com/blog/ai-rsc/ 
 
-> __Multiple GPUs__, [nvidia run:ai](https://www.nvidia.com/en-us/software/run-ai/), [tech blog](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+> __Timeseries Forecasting__, [Hugging Face Models](https://huggingface.co/models?pipeline_tag=time-series-forecasting)
+
+> __Multiple GPUs__, [tech blog](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+
+> __Muti GPU parallelism__, [Hugging Face Doc](https://huggingface.co/docs/transformers/en/perf_train_gpu_many)
 
 > __AWS ec2 instance (p4d)__, [tech blog](https://aws.amazon.com/blogs/compute/amazon-ec2-p4d-instances-deep-dive/),  [p4d page](https://pages.awscloud.com/amazon-ec2-p4d.html) 
 
@@ -26,6 +30,3 @@
 
 > __Devocean (SK)__, [tech blog](https://devocean.sk.com/)
 
-> __Muti GPU parallelism__, [Hugging Face Doc](https://huggingface.co/docs/transformers/en/perf_train_gpu_many)
-
-> __Timeseries Forecasting__, [Hugging Face Models](https://huggingface.co/models?pipeline_tag=time-series-forecasting)
