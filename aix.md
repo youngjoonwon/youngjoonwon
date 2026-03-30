@@ -2,6 +2,8 @@
 
 ### Reading for Fun 
 
+> __microgpt by karpathy__ [microgpt.py](https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95)
+
 > __Meta AI infra__, [GenAI infra](https://engineering.fb.com/2024/03/12/data-center-engineering/building-metas-genai-infrastructure/)
 
 > __Meta’s AI infra__, https://ai.meta.com/blog/ai-rsc/ 
