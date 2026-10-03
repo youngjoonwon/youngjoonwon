@@ -19,6 +19,10 @@ I am a faculty member at [Hanyang University](http://www.hanyang.ac.kr/english) 
 - 2003: B. Mathematics, Computer Science, University of Waterloo, Waterloo, ON, Canada
 - 1999: New Westminster Secondary, New Westminster, BC, Canada
 
+**Interests in** **재밌어하는 분야**
+- Network Data AI/ML Analysis, 네트워크 데이터 AI/ML 분석
+- Crypto Algorithmic Trading, 크립토 알고리듬 트레이딩 
+  
 **Students (Research and Teaching Assistants) 학생들**
 
 - Taechul Kim 김태철 (MS 석사과정+ROK Army, https://github.com/incognitokk33)
